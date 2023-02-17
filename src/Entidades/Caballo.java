@@ -1,17 +1,8 @@
 
 package Entidades;
 
-<<<<<<< HEAD
 
-public class Caballo {
-    
-    
-    private String color;
-    private int peso;
-    private String raza;
-    private int herraduras;
-   
-=======
+
 public class Caballo {
     
     private String color;
@@ -84,5 +75,4 @@ public class Caballo {
     
     
     
->>>>>>> CaballoPergo
 }
