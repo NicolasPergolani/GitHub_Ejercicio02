@@ -71,9 +71,9 @@ public class Gato {
         return "Gato:  Mariano: " + nombre 
                     +" Apellido: " + apellido 
                     +" Apodo: " + apodo 
-                    +" Color=" + color 
-                    +" Edad=" + edad 
-                    +"TieneCola=" + tieneCola;
+                    +" Color: " + color 
+                    +" Edad: " + edad 
+                    +" TieneCola: " + tieneCola;
     }
     
     
